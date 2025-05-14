@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 652149d5946818e48baa7011d2870cd6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - gliderModel: {fileID: 5093514146706412408, guid: 7161fcacbeaa9204591aee6eed6dd5f7, type: 3}
+  - coinModel: {fileID: 5483464368079903525, guid: 5211e0d3c42905a4091a9b552eb0403d, type: 3}
+  - ammoModel: {fileID: 7974304919005044391, guid: f72a55830534d514f865bf5bcab015f0, type: 3}
+  - skullModel: {fileID: 562189656615643008, guid: b0d7ea86c29f0e4458afdcd82ab4ad2d, type: 3}
+  - healthModel: {fileID: 8001984375078406704, guid: d5b936e94e94f0242abfe3c62987ecca, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
